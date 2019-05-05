@@ -1,1 +1,0 @@
-pip download -r c:\git\pip\requierments.txt -d c:\git\pip
