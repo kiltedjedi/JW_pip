@@ -4,5 +4,8 @@ pylint >= 2.3.1
 pyautogui >= 0.9
 zappa >= 0.48.2
 numpy >= 1.16.3
+boto3 >= 1.9.143
+ansible-lint >= 4.1.0
+
 
 
