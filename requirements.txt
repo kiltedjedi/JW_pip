@@ -5,7 +5,13 @@ pyautogui >= 0.9
 zappa >= 0.48.2
 numpy >= 1.16.3
 boto3 >= 1.9.143
-ansible-lint >= 4.1.0
+AWSCLI >= 1.16.155
+BeautifulSoup4 >= 3.2.1
+Requests-NTLM >= 1.1.0
+Requests >= 2.21.0
+ConfigParser >= 3.7.4
+lxml >= 4.3.3
+
 
 
 
