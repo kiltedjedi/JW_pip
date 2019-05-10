@@ -3,7 +3,7 @@
 ## Usage
 1. Add packages to requirements.txt
 2. run pip_download.ps1 - edit the destination folder (after -d) to one local
-3. confirm all packages and dependent packages have donwloaded
+3. confirm all packages and dependent packages have donwloaded - Note you may have to make sure you have the files for the specific Python version / architecture.  If so these can be downloaded manually to the downloads directory and included
 4. zip file up and transmit to restricted machine
 5. Make sure requirements.txt is located in the same directory as the
 6. On restricted machine, run pipinstall offline - edit the path to the requirements.txt and the directory where the packages are
@@ -24,3 +24,5 @@ Extensions included
 - Requests >= 2.21.0
 - ConfigParser >= 3.7.4
 - lxml >= 4.3.3
+- Flask >= 1.0.2
+- Troposphere >= 2.4.6

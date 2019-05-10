@@ -11,6 +11,9 @@ Requests-NTLM >= 1.1.0
 Requests >= 2.21.0
 ConfigParser >= 3.7.4
 lxml >= 4.3.3
+Flask >= 1.0.2
+troposphere >= 2.4.6
+
 
 
 
