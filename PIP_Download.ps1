@@ -1,1 +1,1 @@
-pip download -r c:\git\pip\requirements.txt -d c:\git\pip
+pip download -r c:\git\pip\requirements.txt -d c:\git\pip\downloads

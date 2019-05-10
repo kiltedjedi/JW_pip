@@ -1,1 +1,1 @@
-pip install --no-index --find-links c:\GIT\pip -r c:\git\pip\requirements.txt
+pip install --no-index --find-links C:\GIT\pip\downloads -r c:\git\pip\requirements.txt
